@@ -1,6 +1,6 @@
 ![MasterHead](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)
 <h1 align="center">Hi 👋, I'm Maggie Li</h1>
-<h3 align="center">A passionate python developer studying in US</h3>
+<h3 align="center">A Passionate Python DeveloperS</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/e9f3346b3ffd50eb559a31eda475cf321e2ede3284f37ba8e92e57b6fbd7a1b4/68747470733a2f2f6d656469612e74656e6f722e636f6d2f53353962506b543070716341414141432f70726f6772616d6d696e672e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shuang497&label=Profile%20views&color=0e75b6&style=flat" alt="shuang497" /> </p>
