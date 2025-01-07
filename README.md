@@ -30,7 +30,6 @@
 
   [6] [JobCompare](https://github.com/Sol2023/job_compare.git)  (*Android Studio*, *Java*)
 
-
 - 📫 How to reach me **xli3121@gatech.edu**
 
 - 📄 Know about my experiences [Resume]()
