@@ -29,6 +29,7 @@
   [5] [Dashboard Building-PowerBI](https://github.com/Sol2023/POWER_BI) (*Power BI*) 
 
   [6] [JobCompare](https://github.com/Sol2023/job_compare.git)  (*Android Studio*, *Java*)
+  
 
 - 📫 How to reach me **xli3121@gatech.edu**
 
