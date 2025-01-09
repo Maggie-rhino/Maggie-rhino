@@ -11,7 +11,6 @@
 
   [2] AI Chatbot (AWS Bedrock with Multi Agetn, RAG)
 
-
 - 🌱 I’m currently learning **Devops (Terraform, AWS ECS, Docker)**
 
 - 👨‍💻 All of my projects are available at [All Projects](https://github.com/Sol2023/Learning_Map/blob/main/Projects.md)
